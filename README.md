@@ -1,57 +1,85 @@
-# ApexPlanet Data Analytics Internship
+# ApexPlanet Data Analytics Internship Project
 
-## Project Overview
-This repository contains all tasks completed as part of the ApexPlanet Data Analytics Internship Program.
-
-The project is based on the Olist Brazilian E-Commerce Dataset and covers:
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Analysis
-- Dashboarding
-- Business Insights
-- Data Storytelling
+## Overview
+This repository contains all tasks completed as part of the ApexPlanet Data Analytics Internship program. The project focuses on data cleaning, exploratory data analysis, business intelligence, dashboarding, and statistical validation using real-world e-commerce data.
 
 ---
 
-# Folder Structure
+# Project Structure
 
-## datasets
+## datasets/
 Contains raw datasets used for analysis.
 
-## cleaned_data
+## cleaned_data/
 Contains cleaned and transformed datasets.
 
-## notebooks
-Jupyter notebooks used for analysis and feature engineering.
+## notebooks/
+Contains Jupyter notebooks for all tasks:
+- Task 1: Data Cleaning & Wrangling
+- Task 2: EDA & Business Intelligence
+- Task 4: Statistical Validation & Storytelling
 
-## sql
-SQL queries for business problem solving.
+## dashboards/
+Contains Power BI dashboard files.
 
-## reports
-Task summaries and analytical reports.
+## reports/
+Contains summary reports for each task.
 
-## dashboards
-Power BI/Tableau dashboard files.
-
-## presentations
-Presentation decks and storytelling material.
-
----
-
-# Task 1 Completed
-- Data loading
-- Missing value analysis
-- Datetime conversion
-- Feature engineering
-- Delivery KPI analysis
-- Cleaned dataset export
+## sql/
+Contains SQL business query files.
 
 ---
 
-# Tools Used
+# Tools & Technologies Used
+
 - Python
 - Pandas
-- VS Code
-- Jupyter Notebook
+- Matplotlib
 - Power BI
-- GitHub
+- SQL
+- Git & GitHub
+- Jupyter Notebook
+
+---
+
+# Key Business Insights
+
+- Most orders were delivered successfully.
+- Late deliveries represented a smaller percentage of total orders.
+- Delivery performance varied across months.
+- Statistical testing confirmed significant differences between late and on-time deliveries.
+- Interactive dashboards provided operational and logistics insights.
+
+---
+
+# Dashboard Features
+
+- Total Orders KPI
+- Average Delivery Time KPI
+- Monthly Order Trend Analysis
+- Late Delivery Analysis
+- Interactive Filters using Slicers
+
+---
+
+# Statistical Validation
+
+A T-Test was performed to validate whether late deliveries had significantly higher delivery times compared to on-time deliveries.
+
+---
+
+# Outcome
+
+This project demonstrates:
+- End-to-end data analytics workflow
+- Business intelligence reporting
+- Dashboard development
+- Statistical analysis
+- Data storytelling
+- GitHub project management
+
+---
+
+# Author
+
+Likhitha
