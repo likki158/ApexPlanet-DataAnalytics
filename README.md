@@ -79,6 +79,9 @@ This project demonstrates:
 - GitHub project management
 
 ---
+## Dashboard Preview
+
+![Dashboard Preview](dashboards/dashboard_preview.png)
 
 # Author
 
